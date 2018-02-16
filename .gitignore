@@ -1,6 +1,7 @@
 # Java
 **/build/
 .gradle/
+.idea/
 
 # IntelliJ
 *.iml
